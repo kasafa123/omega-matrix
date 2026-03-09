@@ -2,7 +2,7 @@
     'use strict';
 
     // ================== KONFIGURASI BACKEND ==================
-    const API_BASE_URL = 'https://backend-omega-kasafa.pxxl.click/api'; // Sesuaikan jika perlu
+    const API_BASE_URL = 'https://backend-omega.kasafa.pxxl.dev/api'; // Sesuaikan jika perlu
 
     const TELEGRAM_BOT_TOKEN = ''; // Isi jika ingin notifikasi Telegram
     const TELEGRAM_CHAT_ID = '';
